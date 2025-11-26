@@ -1,6 +1,9 @@
 # Frogger-Game-Project
 This is a version of the classic game Frogger. Programed in System Verilog and used on an FPGA Board.
 
+<img width="1028" height="578" alt="image" src="https://github.com/user-attachments/assets/f04b771c-84eb-409a-aa0c-5f89d9154d9e" />
+
+
 📌 Project Overview
 
 This project is a full hardware implementation of the classic Frogger game, developed entirely in SystemVerilog and deployed on an FPGA board as part of the Lab 1A course at the Technion.
